@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blanchedalmond;
+    border-radius:20px;
+}
+header a {
+    text-decoration:none;
+}
+
+h1 {
+   color:crimson;
+   text-align: center; 
+}
+
+footer p {
+    background-color: burlywood;
+    border-radius: 10px;
+
+}
+
+nav a {
+    margin: 30px;
+    text-decoration: none;
+    color: chocolate;
+    background-color: khaki;
+    border-radius: 10px;
+}
+
+.fairworks {
+    background-color:blueviolet;
+    border-radius: 16px;
+
+}
+
+h2 {
+    color: cadetblue;
+
+}
+
+main a {
+    text-decoration: none;
+    color:crimson ;
+}
+
